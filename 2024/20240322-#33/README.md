@@ -8,7 +8,7 @@ Proshore Nepal Pvt. Ltd, Tinkune, Nepal
 
 ## Talks and Speakers
 -   "eBPF: Journey to the Kernel World" - [Yadav Lamichhane](https://www.linkedin.com/in/omegazyadav/)
-	- [Slides](https://www.canva.com/design/DAGAYS1OqUo/ICNhU1P-1MA7La0dlntj4A)
+	- [Slides](https://www.canva.com/design/DAGAYS1OqUo/ICNhU1P-1MA7La0dlntj4A/edit)
 -   "CRIU: Checkpoint and Restore in Userspace" - [Sakar Dotel](https://www.linkedin.com/in/sakardotel/)
 	- [Slides](https://www.canva.com/design/DAGAly0FqbY/1p9bK0xDrSVh92GDNYNVBg/edit)
 
