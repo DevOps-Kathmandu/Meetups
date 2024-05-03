@@ -1,4 +1,4 @@
-# DevOps Kathmandu Meetup: 34rd Ed.
+# DevOps Kathmandu Meetup: 34th Ed.
 
 ## Venue
 GlobalyHub, Kumaripati, Lalitpur | Nepal
