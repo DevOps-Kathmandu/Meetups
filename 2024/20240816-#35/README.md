@@ -5,7 +5,7 @@
 
 ## Talks and Speakers
 - "Creating software to Monitor Hardware" - [Sudeep Bhandari](https://www.linkedin.com/in/sudeephb/)
-  - [Slides](....)
+  - [Slides](https://docs.google.com/presentation/d/1_4rP00l1VnJiwRGvy2AeNLMsR7Pra_jt04tMsQ1iI9I)
 
 - "Simplify Your Docker Workflow with Lazydocker" - [Milan Thapa](https://thapakazi.com)
   - [Slides](https://github.com/thapakazi/slides/blob/main/2024/lazydocker_devops_meetup.org)
